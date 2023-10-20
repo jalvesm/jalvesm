@@ -1,15 +1,10 @@
-<h1 align="center">
-<img width=15% src="https://i.pinimg.com/564x/9e/70/d9/9e70d9b7ae230434473aa6923739623a.jpg"/><br>
-</h1>
 
-<br><b>🌱 Hey there!</b>
+<p align="center" width=15%>
+  <img width=15% src="https://i.pinimg.com/564x/9e/70/d9/9e70d9b7ae230434473aa6923739623a.jpg" /> </p>
+
+<b>🌱 Hey there!</b>
 <p align="justify">
-Nice to have you here! I am a student @ Pontifical Catholic University of Minas Gerais, currently in the 2nd year (4th semester) of software engineering. So far, my interests in this field have been centred on mathematics, and due to this, statistical operations with data-related problems have really captured my attention! I have been afforded with the opportunity to develop applications in C, Java, and Python. I'm also experiencing my first year of internship along with the university, where I deal not only with back-end technologies such as APIs written in NodeJs, but also tools in cloud computing provided by AWS.</p> 
+I'm currently a second-year software engineering student at the Pontifical Catholic University of Minas Gerais. Throughout my academic journey, I've discovered my interest in the intersection of mathematics and technology, particularly in statistical operations and data-related topics. I have been learning programming languages such as C, Java, and Python. Recently, data modelling, managing, and manipulating relational databases have played a significant role in my interest related to the world of data! 
 
-#### 🖥️ You will find here:
-
-<h3 align="center">
- 
- ![jalvesm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jalvesm&theme=nord&show_icons=true&hide_border=true)
-
-</h3>
+<p align="justify">
+ I'm also in my first-year internship, and this hands-on opportunity has been guiding me to understand a bit about the universe of backend technologies and modern software development practices. I'm currently learning how to create and implement APIs alongside cloud computing tools. It has been a pleasant journey so far, full of getting to know and learning from people with different backgrounds and interests! 
