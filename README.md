@@ -28,10 +28,10 @@ and... I love cats — obviously, bruh!
 ![postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=DCDFE8)
 
 ![amazonwebservices](https://img.shields.io/badge/amazonwebservices-000000?style=for-the-badge&logo=amazonwebservices&logoColor=DCDFE8)
-![dynamodb](https://img.shields.io/badge/dynamodb-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=DCDFE8)
 ![awslambda](https://img.shields.io/badge/awslambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=DCDFE8)
-![cloudwatch](https://img.shields.io/badge/cloudwatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=DCDFE8)
+![dynamodb](https://img.shields.io/badge/dynamodb-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=DCDFE8)
 ![amazons3](https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=DCDFE8)
+![cloudwatch](https://img.shields.io/badge/cloudwatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=DCDFE8)
 ![cognito](https://img.shields.io/badge/cognito-DD344C?style=for-the-badge&logo=amazoncognito&logoColor=DCDFE8)
 
 
