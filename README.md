@@ -7,10 +7,13 @@
 #### I'm a back-end developer intern by day ☼ and software engineering student by night ☾
 
 <p align="justify">
-- 🌎 A 3rd year Software Engineering student @ Pontifical Catholic University of Minas Gerais <br>      
-- 💻 I have been learning Java, C, Python & JavaScript throughout my academic journey <br>
-- 📊 I'm interested in the intersection of mathematics and programming <br>
-- 🌱 On my 2nd year internship!
+🌎 A 3rd year Software Engineering student @ Pontifical Catholic University of Minas Gerais <br>      
+💻 I have been learning Java, C, Python & JavaScript throughout my academic journey <br>
+🌱 On my 2nd year internship! <br>
+📊 I'm interested in the intersection of mathematics and programming <br>
+📚 I'm currently reading The Brothers Karamazov, from Dostoevsky; <br>
+  
+and... I love cats — obviously, bruh!
 
 ![⚙️ I use daily:](https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20I%20use%20daily:-000000?style=for-the-badge) 
 ![JAVA](https://img.shields.io/badge/JAVA-447799?style=for-the-badge) 
