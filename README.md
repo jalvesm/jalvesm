@@ -23,8 +23,6 @@
 ![postgresql](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=DCDFE8)
 ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=DCDFE8)
 ![postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=DCDFE8)
-![VSCODE](https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode)
-![intellij](https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea)
 
 ![amazonwebservices](https://img.shields.io/badge/amazonwebservices-000000?style=for-the-badge&logo=amazonwebservices&logoColor=DCDFE8)
 ![dynamodb](https://img.shields.io/badge/dynamodb-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=DCDFE8)
