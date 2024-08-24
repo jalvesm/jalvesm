@@ -2,9 +2,9 @@
   <img width=15% src="https://i.pinimg.com/564x/9e/70/d9/9e70d9b7ae230434473aa6923739623a.jpg" />
 </p>
 
-## <b>🪐 Hello there! 🖖</b> 
+### <b>🪐 Hello there! 🖖</b> 
 
-#### I'm a back-end developer intern by day ☼ and software engineering student by night ☾
+##### I'm a back-end developer intern by day ☼ and software engineering student by night ☾
 
 <p align="justify">
 🌎 A 3rd year Software Engineering student @ Pontifical Catholic University of Minas Gerais <br>      
@@ -15,11 +15,11 @@
   
 and... I love cats — obviously, bruh!
 
-![⚙️ I use daily:](https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20I%20use%20daily:-000000?style=for-the-badge) 
+![⚙️ I use daily](https://img.shields.io/badge/%E2%9A%99%EF%B8%8F%20I%20use%20daily:-000000?style=for-the-badge) <br>
 ![JAVA](https://img.shields.io/badge/JAVA-447799?style=for-the-badge) 
 ![NODE.js](https://img.shields.io/badge/NODE.js-5FA04E?style=for-the-badge)
 
-![🚀 I also need:](https://img.shields.io/badge/%F0%9F%9A%80%20I%20also%20need:-000000?style=for-the-badge)
+![🚀 I also need](https://img.shields.io/badge/%F0%9F%9A%80%20I%20also%20need:-000000?style=for-the-badge) <br>
 ![linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=111)
 ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=DCDFE8)
 ![springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=DCDFE8)
@@ -27,7 +27,7 @@ and... I love cats — obviously, bruh!
 ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=DCDFE8)
 ![postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=DCDFE8)
 
-![amazonwebservices](https://img.shields.io/badge/amazonwebservices-000000?style=for-the-badge&logo=amazonwebservices&logoColor=DCDFE8)
+![amazonwebservices](https://img.shields.io/badge/amazonwebservices-000000?style=for-the-badge&logo=amazonwebservices&logoColor=DCDFE8) <br>
 ![awslambda](https://img.shields.io/badge/awslambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=DCDFE8)
 ![dynamodb](https://img.shields.io/badge/dynamodb-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=DCDFE8)
 ![amazons3](https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=DCDFE8)
