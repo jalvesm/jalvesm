@@ -9,7 +9,7 @@
 <p align="justify">
 🌎 A 3rd year Software Engineering student @ Pontifical Catholic University of Minas Gerais <br>      
 💻 I have been learning Java, C, Python & JavaScript throughout my academic journey <br>
-🌱 Java Jr developer
+🌱 Java Jr developer<br>
 📚 I'm currently reading <i>Poor Folk</i>, from Dostoevsky; <br>
   
 and... I love cats — obviously, bruh!
