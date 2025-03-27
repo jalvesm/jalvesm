@@ -7,9 +7,9 @@
 ##### I'm a back-end developer by day ☼ and software engineering student by night ☾
 
 <p align="justify">
+🌱 Java Jr developer<br>
 🌎 A 3rd year Software Engineering student @ Pontifical Catholic University of Minas Gerais <br>      
 💻 I have been learning Java, C, Python & JavaScript throughout my academic journey <br>
-🌱 Java Jr developer<br>
 📚 I'm currently reading <i>Poor Folk</i>, from Dostoevsky; <br>
   
 and... I love cats — obviously, bruh!
