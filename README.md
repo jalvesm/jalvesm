@@ -1,5 +1,5 @@
 <p align="center">
-  <img width=15% src="https://i.pinimg.com/564x/9e/70/d9/9e70d9b7ae230434473aa6923739623a.jpg" />
+  <img width=20% src="https://i.pinimg.com/564x/9e/70/d9/9e70d9b7ae230434473aa6923739623a.jpg" />
 </p>
 
 #### 🖖 Hello!
